@@ -2,7 +2,7 @@
 
 Submitted by: **👉🏿 Hiep Nguyen**
 
-About this web app: **👉🏿 app description here**
+About this web app: **👉🏿 offers a list of content creators**
 
 Time spent: **👉🏿 4** hours
 
